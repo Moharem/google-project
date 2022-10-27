@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/google-project/static/css/main.aafcf857.css",
-    "main.js": "/google-project/static/js/main.9180c3ca.js",
-    "static/media/fa-solid-900.ttf": "/google-project/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
-    "static/media/fa-brands-400.ttf": "/google-project/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
-    "static/media/fa-solid-900.woff2": "/google-project/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
-    "static/media/fa-brands-400.woff2": "/google-project/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
-    "static/media/fa-regular-400.ttf": "/google-project/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
-    "static/media/—Pngtree—user avatar login interface abstract_6796239.png": "/google-project/static/media/—Pngtree—user avatar login interface abstract_6796239.7e67f4a11da6ea1d4b46.png",
-    "static/media/fa-regular-400.woff2": "/google-project/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
-    "static/media/fa-v4compatibility.ttf": "/google-project/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
-    "static/media/fa-v4compatibility.woff2": "/google-project/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
-    "index.html": "/google-project/index.html",
-    "main.aafcf857.css.map": "/google-project/static/css/main.aafcf857.css.map",
-    "main.9180c3ca.js.map": "/google-project/static/js/main.9180c3ca.js.map"
+    "main.css": "/searchEngine/static/css/main.81d75554.css",
+    "main.js": "/searchEngine/static/js/main.f29e2ae0.js",
+    "static/media/fa-solid-900.ttf": "/searchEngine/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/searchEngine/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/searchEngine/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/searchEngine/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/pexels-magda-ehlers-1337386-removebg-preview.png": "/searchEngine/static/media/pexels-magda-ehlers-1337386-removebg-preview.1a8a16144a8f37c0332e.png",
+    "static/media/fa-regular-400.ttf": "/searchEngine/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/—Pngtree—user avatar login interface abstract_6796239.png": "/searchEngine/static/media/—Pngtree—user avatar login interface abstract_6796239.7e67f4a11da6ea1d4b46.png",
+    "static/media/fa-regular-400.woff2": "/searchEngine/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/searchEngine/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/searchEngine/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/searchEngine/index.html",
+    "main.81d75554.css.map": "/searchEngine/static/css/main.81d75554.css.map",
+    "main.f29e2ae0.js.map": "/searchEngine/static/js/main.f29e2ae0.js.map"
   },
   "entrypoints": [
-    "static/css/main.aafcf857.css",
-    "static/js/main.9180c3ca.js"
+    "static/css/main.81d75554.css",
+    "static/js/main.f29e2ae0.js"
   ]
 }
