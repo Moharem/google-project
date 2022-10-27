@@ -1,4 +1,4 @@
-import GoogleLogo from "./components/GoogleLogo";
+import Logo from "./components/GoogleLogo";
 import SearchBar from "./components/SearchBar";
 import User from "./components/User";
 import Filter from "./components/Filter";
@@ -7,7 +7,7 @@ import RenderedList from "./components/RenderedList";
 export default function ResultsPage({ fakeList, homePage, handleChange }) {
   return (
     <>
-      <GoogleLogo />
+      <Logo />
       <SearchBar />
       <User />
       <Filter />
